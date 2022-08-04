@@ -10,6 +10,7 @@ public class SpringWebDemoApplication {
 
 		SpringApplication.run(SpringWebDemoApplication.class, args);
 		System.out.println("Hello World !");
+		System.out.println("Added another line for commit2");
 	}
 
 }
